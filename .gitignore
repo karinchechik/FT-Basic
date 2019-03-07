@@ -1,0 +1,6 @@
+.env
+node_modules
+ExampleAddresses.js
+.idea
+now.json
+next.config.js

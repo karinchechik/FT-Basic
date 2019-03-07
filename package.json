@@ -1,0 +1,38 @@
+{
+  "name": "furrytales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "next build",
+    "test": "mocha",
+    "dev": "node server.js",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "es6-promise": "^4.2.5",
+    "ethereumjs-wallet": "^0.6.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.2.5",
+    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "mocha": "^5.2.0",
+    "next": "^8.0.3",
+    "next-routes": "^1.4.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.84.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.35",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "dotenv-webpack": "^1.7.0"
+  }
+}
