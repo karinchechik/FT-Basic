@@ -1,6 +1,7 @@
 # FurryTales
 
 Social media for CryptoKitties.
+
 Basic version for a tutorial I wrote - https://medium.com/@karin.chechik/create-a-blockchain-app-on-ethereum-dapp-with-react-and-solidity-a8f8c77b09a8
 
 Result - http://furrytales.herokuapp.com/
